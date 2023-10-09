@@ -2,7 +2,7 @@
 
 <hr>
 
-### Live Link: https://book-catallog-backend-prisma-flame.vercel.app/
+### Live Link: https://book-catelog-prima-assignment.vercel.app/
 
 ### Application Routes:
 
